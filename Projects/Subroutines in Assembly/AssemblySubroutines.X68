@@ -1,8 +1,8 @@
 *-----------------------------------------------------------
-* Title      : Lab 9
+* Title      : Assembly Subroutines
 * Written by : Justin Delisi
 * Date       : 11/12/18
-* Description: Lab 9
+* Description: Demonstrate Subroutines in Assembly Language
 *-----------------------------------------------------------
     ORG    $1000
 START:                  
